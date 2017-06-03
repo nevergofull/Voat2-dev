@@ -54,9 +54,11 @@ Start by creating your user account. The frontpage will be empty, so you should 
 After creating your subverse, you can visit it (localhost/v/yourtestsubverse) and start posting stories or links. You can then comment on these stories and vote on them.
 
 ### Why was this made?
-This was just a hobby project to help me get a better understanding of C# and ASP.NET MVC and Entity Framework.
+This was just a hobby project to help me get a better understanding of C# and ASP.NET MVC and Entity Framework. - Atif Colo
 
-### How does Voat differ from related projects?
+SRS Shills took over Voat just like they took over Reddit, and pushed Atif out. We have taken it upon ourselves to foster, maintain, and grow a Voat2 that is censorship-free because today, all nations censor and all social networks censor.  We believe there ought be a planet of free speech, but barring that, at the very least, one solid place for humanity to speak freely.
+
+### How does Voat2 differ from related projects?
 - based on Earth, no censorship policy as long as content is legal in Delaware, U.S.
 - fuck ads.  the sidebar pic is a way to allow users to be creative and donate.
 - deterministically scaling voting quota da fuq does this mean? in voat2 votes curate, but don't censor.
@@ -75,7 +77,7 @@ This was just a hobby project to help me get a better understanding of C# and AS
 - NOW WITH 100% LESS CENSORSHIP AND BEHAVIORAL MANIPULATION, COMPARED TO ORIGINAL VOAT!  - feature request.  some dev plase halp.
 
 ### What does the future hold?
-Voat aims to make a media aggregator platform with new ideas and unique features that set Voat apart from similar platforms.
+Voat2 aims to make a media aggregator platform with new ideas and unique features that set Voat apart from similar platforms.
 
 - chat
 - remove censorship and behavioral manipulation
