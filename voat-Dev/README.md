@@ -81,7 +81,7 @@ Voat2 aims to make a media aggregator platform with new ideas and unique feature
 
 - chat
 - remove censorship and behavioral manipulation
-- 
+- securted dual-site Board of Directors consensus decision making discussion and voting system
 - backed by holochain, not the internet
 
 ### Contributing
