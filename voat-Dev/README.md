@@ -2,7 +2,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/gmrwwisseq07emb4/branch/master?svg=true)](https://ci.appveyor.com/project/voat/voat/branch/master)
 [![license](http://img.shields.io/badge/license-GNU-blue.svg)](https://raw.githubusercontent.com/voat/voat/master/LICENSE)
 
-<img height="252" width="345" src="Voat/Voat.UI/Graphics/voat-goat.png" alt="Voat2 mascot" title="Voat" align="right" />
+<img height="251" width="327" src="Voat/Voat.UI/Graphics/voat-goat.jpg" alt="Voat2 mascot" title="Voat" align="right" />
 
 This is the code behind http://www.voat.co.  and will now become the code behind voat2 (secret name!)
 
@@ -63,7 +63,7 @@ SRS Shills took over Voat just like they took over Reddit, and pushed Atif out. 
 - fuck ads.  the sidebar pic is a way to allow users to be creative and donate.
 - deterministically scaling voting quota da fuq does this mean? in voat2 votes curate, but don't censor.
 - limited voting (new users need to gain a certain amount of points before they are able to vote without restrictions) *TO BE REMOVED*
-- limited number of owned/moderated subs per user (10)
+- limited number of owned/moderated subs per user (10) TO BE CHANGED to 10 O mod and 10 non-O mod positions per user.
 - Voat2 has increased focus on privacy. It enables users to delete their account by automatically overwriting every comment and every submission the user has made with a string "deleted", before proceeding to remove the user account from user credentials database. 
 - built-in night mode
 - subverse set system similar to the one used on Google News.  fuck google; community discussion to keep or remove.
