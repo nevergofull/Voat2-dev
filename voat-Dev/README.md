@@ -4,7 +4,7 @@
 
 <img height="251" width="327" src="Voat/Voat.UI/Graphics/voat-goat.jpg" alt="Voat2 mascot" title="Voat" align="right" />
 
-This is the code behind http://www.voat.co.  and will now become the code behind voat2 (secret name!)
+This was the code behind http://www.voat.co.  and will now become the code behind voat2 (secret name!)
 
 ### Description
 Voat2 is a media aggregator and community platform developed in C# ASP.NET MVC 5.  
